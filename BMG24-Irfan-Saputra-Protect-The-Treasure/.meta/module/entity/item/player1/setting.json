@@ -1,0 +1,58 @@
+{
+  "data": {
+    "actorModel": {
+      "actorName": {
+        "asset": ""
+      },
+      "girlactor": {
+        "asset": ""
+      }
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.7,
+      "height_c": 1.7,
+      "radius": 0.43,
+      "radius_c": 0.43,
+      "type": "Capsule"
+    },
+    "deadAction": {
+      "deathHideTime": {
+        "value": 60
+      },
+      "playDeadAction": "die_front"
+    },
+    "equip": [
+      "1",
+      "2"
+    ],
+    "hideHp": false,
+    "hpBarColor": {
+      "g": 255,
+      "r": 85
+    },
+    "isPlayer": true,
+    "maxHp": 500,
+    "name": {
+      "value": "bbfbdc34-da2f-41ab-aaac-3b2e72f5ef6d"
+    },
+    "reviveTime": {
+      "value": 40
+    },
+    "skill": [
+      "myplugin/267b2385-6bc1-4b4c-a1bf-729255a35fac"
+    ]
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "86fa3641fae7234e950730256392ba89",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.23"
+  }
+}

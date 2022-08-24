@@ -1,0 +1,34 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Green Light Black Robot/g2047_npc_zhanjie_2.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "attackDis": 100,
+          "fullName": "myplugin/fe9d1f63-9d26-48e9-9169-33d002a8575b"
+        },
+        []
+      ]
+    },
+    "collision": true,
+    "enableAI": true,
+    "maxHp": 100,
+    "name": {
+      "value": "entity_1460381a-0200-430f-af66-dc2bd0f24bc0"
+    },
+    "skill": [
+      "myplugin/fe9d1f63-9d26-48e9-9169-33d002a8575b"
+    ]
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "4b9e6255f96b60794b7055b360d165e9",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.23"
+  }
+}

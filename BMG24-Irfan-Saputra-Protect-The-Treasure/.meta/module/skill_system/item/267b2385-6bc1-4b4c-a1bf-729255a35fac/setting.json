@@ -1,0 +1,41 @@
+{
+  "data": {
+    "attackBound": {
+      "height_c": 2,
+      "type": "Capsule"
+    },
+    "attackBoundSkillSystemCfg": {
+      "height_c": 2,
+      "memory": {
+        "Capsule": "1.000000-0.500000",
+        "Cylinder": "1.000000-0.500000",
+        "Sector": "1.000000-0.500000",
+        "Sphere": "1.000000-0.500000"
+      },
+      "type": "Capsule"
+    },
+    "attackTarget": {
+      "targetType": "hitNpc"
+    },
+    "castAction": {
+      "castAction": "attack6"
+    },
+    "damage": 20,
+    "name": {
+      "value": "skill_system_267b2385-6bc1-4b4c-a1bf-729255a35fac"
+    },
+    "skillIcon": {
+      "asset": "asset/kisspng-computer-icons-symbol-peace-fist-5abf03ad591835.5448152615224677573649.png"
+    },
+    "skillIconPos": {
+      "area_number": 8
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "6bfdf445e5a780406806d0e745eebcd3",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.23"
+  }
+}
