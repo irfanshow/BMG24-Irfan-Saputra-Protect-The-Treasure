@@ -61,14 +61,587 @@
         }
       },
       {
+        "__OBJ_TYPE": "Instance_Folder",
+        "id": "8782591859684786177",
+        "name": "Floor"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "72fc96c4-db49-448a-a762-717857200a77",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782617333981904897",
+        "massCenter": {
+          "x": 11.4292469024658,
+          "y": 0.964900314807892,
+          "z": 10.107723236084
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 11.4292469024658,
+          "y": 0.964900314807892,
+          "z": 10.107723236084
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 6,
+          "y": 6,
+          "z": 6
+        },
+        "shape": "3",
+        "size": {
+          "x": 6,
+          "y": 6,
+          "z": 6
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "245df51c-76c8-4c7a-9a36-5e9c42dcef6a",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782617954952708097",
+        "massCenter": {
+          "x": 9.02262306213379,
+          "y": 0.867239236831665,
+          "z": 12.2305164337158
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 9.02262306213379,
+          "y": 0.867239236831665,
+          "z": 12.2305164337158
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 7,
+          "y": 3,
+          "z": 8
+        },
+        "size": {
+          "x": 7,
+          "y": 3,
+          "z": 8
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "b1dae9a6-7534-47d0-a315-3a60f9b138d9",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782618453379334145",
+        "massCenter": {
+          "x": 8.19758129119873,
+          "y": 0.935241341590881,
+          "z": 13.1044578552246
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 8.19758129119873,
+          "y": 0.935241341590881,
+          "z": 13.1044578552246
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 3,
+          "y": 5,
+          "z": 3
+        },
+        "shape": "3",
+        "size": {
+          "x": 3,
+          "y": 5,
+          "z": 3
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "37355a46-2525-4093-8fde-aaa8dc0c30d1",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619238593462273",
+        "massCenter": {
+          "x": 12.8704929351807,
+          "y": 1.32490003108978,
+          "z": 12.7963418960571
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 12.8704929351807,
+          "y": 1.32490003108978,
+          "z": 12.7963418960571
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "e414d56e-4c27-455a-acbb-70e8f7912561",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619258541768705",
+        "massCenter": {
+          "x": 13.6923494338989,
+          "y": 1.10490024089813,
+          "z": 12.2193927764893
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 13.6923494338989,
+          "y": 1.10490024089813,
+          "z": 12.2193927764893
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "5137259f-d885-48d7-a4b4-9bc369730085",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619289598181377",
+        "massCenter": {
+          "x": 14.4026126861572,
+          "y": 0.770255923271179,
+          "z": 11.4758796691895
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 14.4026126861572,
+          "y": 0.770255923271179,
+          "z": 11.4758796691895
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "742ec8ff-4153-4f53-b773-35ae842f21c9",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619307714297857",
+        "massCenter": {
+          "x": 14.9182977676392,
+          "y": 1.25802159309387,
+          "z": 9.9852991104126
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 14.9182977676392,
+          "y": 1.25802159309387,
+          "z": 9.9852991104126
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "5cd14486-f71f-452f-a211-e045e11050eb",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619330358820865",
+        "massCenter": {
+          "x": 14.8388414382935,
+          "y": 0.988566339015961,
+          "z": 8.88456153869629
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 14.8388414382935,
+          "y": 0.988566339015961,
+          "z": 8.88456153869629
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "7bf2b156-7deb-4ec7-8d2c-861910c14df3",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619341894729729",
+        "massCenter": {
+          "x": 14.1937322616577,
+          "y": 1.71707558631897,
+          "z": 7.53457260131836
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 14.1937322616577,
+          "y": 1.71707558631897,
+          "z": 7.53457260131836
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "b222ae35-bcf7-4014-8f3f-ea98d0cdd6c9",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619368843444225",
+        "massCenter": {
+          "x": 14.4896507263184,
+          "y": 1.29199004173279,
+          "z": 7.98261737823486
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 14.4896507263184,
+          "y": 1.29199004173279,
+          "z": 7.98261737823486
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "108cc58a-09fd-4b04-9dee-e5dc213e37f3",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619402250207233",
+        "massCenter": {
+          "x": 13.5211629867554,
+          "y": 1.63924920558929,
+          "z": 6.87770748138428
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 13.5211629867554,
+          "y": 1.63924920558929,
+          "z": 6.87770748138428
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "5dab39ea-18b3-412c-a173-8e2b1c34a966",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619407593144321",
+        "massCenter": {
+          "x": 11.9682111740112,
+          "y": 1.87852001190186,
+          "z": 6.22605133056641
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 11.9682111740112,
+          "y": 1.87852001190186,
+          "z": 6.22605133056641
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "bc5b51e0-43a0-465d-b6ab-61794e2d283a",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619559739736065",
+        "massCenter": {
+          "x": 8.5679988861084,
+          "y": 1.16830801963806,
+          "z": 7.66694164276123
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 8.5679988861084,
+          "y": 1.16830801963806,
+          "z": 7.66694164276123
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d5a7131c-cdf1-454c-8e7e-8d2291b100aa",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619571212959745",
+        "massCenter": {
+          "x": 9.47343158721924,
+          "y": 1.0206413269043,
+          "z": 6.77935981750488
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 9.47343158721924,
+          "y": 1.0206413269043,
+          "z": 6.77935981750488
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "2a95d809-a2fe-4b52-8c20-4f8448ad0b60",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619582621712385",
+        "massCenter": {
+          "x": 11.1956224441528,
+          "y": 1.49990010261536,
+          "z": 6.49998569488525
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 11.1956224441528,
+          "y": 1.49990010261536,
+          "z": 6.49998569488525
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "ed42b215-393e-4add-9e9a-a5d38cb3f458",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619593797959681",
+        "massCenter": {
+          "x": 10.3811159133911,
+          "y": 1.49990010261536,
+          "z": 6.49009609222412
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 10.3811159133911,
+          "y": 1.49990010261536,
+          "z": 6.49009609222412
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "f003cf02-02bb-43c9-b11b-a11f9dd854f8",
+        "density": 4,
+        "friction": 0.63,
+        "id": "8782619623320420353",
+        "massCenter": {
+          "x": 12.8321590423584,
+          "y": 1.49989986419678,
+          "z": 6.34308433532715
+        },
+        "material": {
+          "texture": "part_shuini.tga"
+        },
+        "position": {
+          "x": 12.8321590423584,
+          "y": 1.49989986419678,
+          "z": 6.34308433532715
+        },
+        "restitution": 0.2,
+        "shape": "3"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "2f44289c-8cda-47a9-a2d7-e4902cd55f90",
+        "density": 0.9,
+        "friction": 0.022,
+        "id": "8782623988551843841",
+        "massCenter": {
+          "x": 22.0269432067871,
+          "y": -1.66501319408417,
+          "z": -48.0997123718262
+        },
+        "material": {
+          "texture": "part_bingkuai.tga"
+        },
+        "position": {
+          "x": 22.0269432067871,
+          "y": -1.66501319408417,
+          "z": -48.0997123718262
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 2,
+          "y": 4,
+          "z": 4
+        },
+        "size": {
+          "x": 2,
+          "y": 4,
+          "z": 4
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "0c07ebf9-61c6-44cf-a749-b7bcd41c65f1",
+        "density": 0.9,
+        "friction": 0.022,
+        "id": "8782624111205203969",
+        "massCenter": {
+          "x": 28.3999900817871,
+          "y": -1.7131040096283,
+          "z": -48.4190368652344
+        },
+        "material": {
+          "texture": "part_bingkuai.tga"
+        },
+        "position": {
+          "x": 28.3999900817871,
+          "y": -1.7131040096283,
+          "z": -48.4190368652344
+        },
+        "restitution": 0.2,
+        "scale": {
+          "y": 4,
+          "z": 4
+        },
+        "size": {
+          "y": 4,
+          "z": 4
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "5f47f843-a8cc-4aa9-b4d6-ff7f78fe9cec",
+        "density": 0.9,
+        "friction": 0.022,
+        "id": "8782624626298306561",
+        "massCenter": {
+          "x": 26.3053665161133,
+          "y": -1.65806639194489,
+          "z": -50.7228507995605
+        },
+        "material": {
+          "texture": "part_bingkuai.tga"
+        },
+        "position": {
+          "x": 26.3053665161133,
+          "y": -1.65806639194489,
+          "z": -50.7228507995605
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 7,
+          "y": 5
+        },
+        "size": {
+          "x": 7,
+          "y": 5
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "eab2122c-7cc0-4138-a03d-69ddb405f76a",
+        "density": 0.9,
+        "friction": 0.022,
+        "id": "8782624921410060289",
+        "massCenter": {
+          "x": 27.3999900817871,
+          "y": 0.257612109184265,
+          "z": -46.8938865661621
+        },
+        "material": {
+          "texture": "part_bingkuai.tga"
+        },
+        "position": {
+          "x": 27.3999900817871,
+          "y": 0.257612109184265,
+          "z": -46.8938865661621
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 5
+        },
+        "size": {
+          "x": 5
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "9e8556d6-bcad-42ad-bb9e-aa5538635a30",
+        "density": 0.9,
+        "friction": 0.022,
+        "id": "8782624993707687937",
+        "massCenter": {
+          "x": 22.9572525024414,
+          "y": 0.835596740245819,
+          "z": -46.6520195007324
+        },
+        "material": {
+          "texture": "part_bingkuai.tga"
+        },
+        "position": {
+          "x": 22.9572525024414,
+          "y": 0.835596740245819,
+          "z": -46.6520195007324
+        },
+        "restitution": 0.2,
+        "scale": {
+          "x": 6
+        },
+        "size": {
+          "x": 6
+        }
+      },
+      {
         "__OBJ_TYPE": "Instance_Entity",
         "config": "myplugin/1460381a-0200-430f-af66-dc2bd0f24bc0",
-        "id": "8770008506840137729",
+        "id": "8782625760746536961",
         "name": "enemy",
         "position": {
-          "x": 5.83635473251343,
-          "y": 0.999899864196777,
-          "z": -3.55321550369263
+          "x": 0.878259658813477,
+          "y": 0.999900817871094,
+          "z": -20.8363761901855
         }
       }
     ],
@@ -81,7 +654,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "11213e4a4a78c94ed38d69042db3d254"
+      "setting.json": "4d28f45484d6d2ce5778632605c9f22e"
     },
     "VERSION": "0.23"
   }
