@@ -49,6 +49,7 @@
   "dropDamageRatio": 0,
   "dropDamageStart": 1.5,
   "enableAI": true,
+  "enableMeshNavigate": true,
   "equipTrays": [],
   "eyeHeight": 1.62,
   "followEntityDistanceWhenHasTarget": 10,
@@ -64,6 +65,11 @@
   "hpBarWidth": 1,
   "hpFaceCamera": 0,
   "hurtResistantTime": 0,
+  "idleProb": 0,
+  "idleTime": [
+    10,
+    30
+  ],
   "isAIGoHomePos": true,
   "isPlayer": false,
   "jumpHeight": 0.6,
@@ -77,6 +83,7 @@
   "name": "entity_1460381a-0200-430f-af66-dc2bd0f24bc0",
   "needCheckTouch": true,
   "nextChaseInterval": 2,
+  "patrolDistance": 5,
   "randomPlayDeadActions": [
     ""
   ],

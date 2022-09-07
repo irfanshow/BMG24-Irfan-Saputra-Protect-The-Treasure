@@ -14,6 +14,14 @@
         []
       ]
     },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "AI_walkRules": {
+      "ai_navigation": {
+        "enable": true
+      }
+    },
     "collision": true,
     "enableAI": true,
     "maxHp": 100,
@@ -26,7 +34,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "4b9e6255f96b60794b7055b360d165e9",
+      "setting.json": "00ae5bb66ccd7867a58d33c16ea72568",
       "triggers.bts": ""
     },
     "VERSION": "0.23"
