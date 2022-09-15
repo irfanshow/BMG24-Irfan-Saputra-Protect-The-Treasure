@@ -1,0 +1,42 @@
+{
+  "data": {
+    "AntiClockwise": true,
+    "castAction": "attack2",
+    "cdTime": {
+      "value": 60
+    },
+    "enableCdTip": true,
+    "FillPosition": "Top_With360Degree",
+    "FillType": "With360Degree",
+    "frontSight": "myplugin/frontsight1",
+    "name": {
+      "value": "skill_28aa709b-f64c-490a-93e7-09402991f590"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_MeleeAttack",
+        "damage": 50
+      }
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Vector 1 (7).png"
+      },
+      "icon_pushed": {
+        "asset": "asset/Vector 1 (7).png"
+      },
+      "iconPos": {
+        "area_number": 7
+      },
+      "isClick": true
+    },
+    "startAction": "standby"
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c57502dfbf94ad96a400e7cdf91fa89c",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.23"
+  }
+}

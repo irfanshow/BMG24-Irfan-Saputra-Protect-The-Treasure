@@ -1,0 +1,56 @@
+43170c49763fe82aef1a1a16066a2706 *asset/Actor/Blue Dragon Egg/Blue·Surprise Egg.actor
+80506ee30ccbac7aee73fa371b15663f *asset/Actor/Green Light Black Robot/g2047_npc_zhanjie_2.actor
+d24406b1a6991a993cccfd485edae999 *asset/Actor/Red Fire-type Poke Ball/g2038_ball_07.actor
+ca30d932a5f141f59812afbcafb6849c *asset/Actor/Silver Gray Rectangular Treasure Chest/g2037_treasurebox.actor
+41e099f5ba8246f3640152a61bdfaf19 *asset/Actor/charactor/charactor_boy/character_boy.actor
+fa8a5ff3debf024bd3b1b09653426ee3 *asset/Actor/charactor/charactor_girl/character_girl.actor
+76c87c79929a0a0fa346c999967b514b *asset/Actor/charactor/firstPrvActor/firstPrvActor.actor
+d751713988987e9331980363e24189ce *coin.json
+8b4680f579056d53a7459bda38f8d752 *commodity.csv
+308340b402c51f5f85e0b7fdc04ee072 *game_res_config.txt
+7de6fe70def3b44d46e11e236ad728d8 *gui/CMakeLists.txt
+d751713988987e9331980363e24189ce *gui/schemes/user_font.json
+1fce38776494c2922bc6b81253774249 *id_mappings.json
+1e56af61cb2cc22d15d3d07fd1aafcc2 *lang/lang.csv
+ae4d5b1e93b790afe07f20a306443c42 *lua/main.lua
+57ce6b02e3b2266d27fac9aca051d1ec *lua/script_client/main.lua
+30c164339dc95230e9a2fc3335b95945 *lua/script_common/main.lua
+0c8be7e8ebd620418e5b653a8628cbb4 *lua/script_server/main.lua
+6a64800523eb27c83d1e580b106a2132 *map/map001/meshPart.batch
+1b712d234e34d511f9e369a98d81bb03 *map/map001/setting.json
+5610cad3493a50dfb4bd9a6f5924aa5a *plugin/myplugin/buff/1833cedf-1aa2-4650-9236-1642197d7c5e/setting.json
+63f0ead35f1ae5a4bc7fc69345fdbebe *plugin/myplugin/entity/1460381a-0200-430f-af66-dc2bd0f24bc0/setting.json
+3bdb30cbfd64d7244a54800b9a6ab291 *plugin/myplugin/entity/92e211f1-7b3c-4613-9e32-50c8d8815f9e/setting.json
+86fa3641fae7234e950730256392ba89 *plugin/myplugin/entity/player1/setting.json
+13e306cf428b180743297ea7a3e5a2b3 *plugin/myplugin/entity/player1/triggers.bts
+408d75f3fba74589049c39164d7d6b00 *plugin/myplugin/frontsight/frontsight1/setting.json
+a4a4a7f3316b3e2a94b1820cca1b47eb *plugin/myplugin/item/f58d128d-b092-4dbe-be1d-97341a1b10cd/setting.json
+0aae8a97058b889f40bdfe14b8b5a1c2 *plugin/myplugin/missile/32053b23-ae04-42dc-8e90-d7a22f2e4961/setting.json
+62354ba335f1b7c920e822c3630994c9 *plugin/myplugin/missile/6843bb20-02d2-477c-956f-48997fe7e15e/setting.json
+5cb64f3d047e18497f1b3e9a22b5dae4 *plugin/myplugin/missile/fbad7048-8b29-45df-9116-b68e1012517c/setting.json
+339f65d68edb068aa6db24a39141a162 *plugin/myplugin/skill/267b2385-6bc1-4b4c-a1bf-729255a35fac/setting.json
+c57502dfbf94ad96a400e7cdf91fa89c *plugin/myplugin/skill/28aa709b-f64c-490a-93e7-09402991f590/setting.json
+87aa8868c039bda340b8dbdec2f44e97 *plugin/myplugin/skill/3eaaab93-2bfb-4bf3-9bbc-5275b7e8ec6b/setting.json
+b070270c07fbdced1d27afdb0d4371b2 *plugin/myplugin/skill/a5200841-99a7-46e2-a2ea-8f508d7d1fd2/setting.json
+b070270c07fbdced1d27afdb0d4371b2 *plugin/myplugin/skill/c82ae821-3077-4a9f-a3c3-593f8becaf97/setting.json
+0347a05a366d48d0ae0af1802a7e7569 *plugin/myplugin/skill/fe9d1f63-9d26-48e9-9169-33d002a8575b/setting.json
+6bfdf445e5a780406806d0e745eebcd3 *plugin/myplugin/skill_system/267b2385-6bc1-4b4c-a1bf-729255a35fac/setting.json
+10d833cbf7242d840bb6d82a37555b97 *plugin/myplugin/skill_system/fe9d1f63-9d26-48e9-9169-33d002a8575b/setting.json
+5c90c316bba084444d3a4028428e9c6d *setting.json
+3d62453be0f36cc947f460578bae6a57 *shop.csv
+88485999156ee7403725dfc2c80303ba *terrain/map001/blocks/lod0/-1.-1.-1.chunk
+b46e6d583a80e512eb4148dafcef688a *terrain/map001/blocks/lod0/-1.-1.0.chunk
+ddd179347818123ed208a7e1acf753db *terrain/map001/blocks/lod0/-1.0.-1.chunk
+33b875f10efcb9230f44273fbf527a39 *terrain/map001/blocks/lod0/-1.0.0.chunk
+4d288b21037bc42292bb4802164b756a *terrain/map001/blocks/lod0/0.-1.-1.chunk
+a60246644e88517be0acd20b47d244a2 *terrain/map001/blocks/lod0/0.-1.0.chunk
+4d3e36769365d0a99e7241e048575882 *terrain/map001/blocks/lod0/0.0.-1.chunk
+a81e13e94e0c9e5be8761f0c04c32967 *terrain/map001/blocks/lod0/0.0.0.chunk
+518085433c8eaf7852501e02c255ade6 *terrain/map001/collision.xcs
+fcb3e86cba5af19ab77fb4498aa3da78 *terrain/map001/meta.vxbm
+86c6f0e87574ba5b7d473d8537c29f19 *terrain/map001/terrain.vert
+6dabb154586e22ddd52eb73c068bffbf *terrain/map001/usedMaterial.vxmat
+953825fe414b07831441a6947547a4e8 *terrain/terrain_files.json
+b4f2c4f1ba20d948f6cfcaf4c5e70e6b *triggers.bts
+994dafecb7234c58dcb7248a43737b73 *user_data.json
+953825fe414b07831441a6947547a4e8 *terrain/terrain_files.json

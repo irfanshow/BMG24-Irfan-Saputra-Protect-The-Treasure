@@ -1,0 +1,29 @@
+{
+  "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "size": {
+        "x": 4,
+        "y": 4,
+        "z": 4
+      }
+    },
+    "hitEntitySkill": "myplugin/3eaaab93-2bfb-4bf3-9bbc-5275b7e8ec6b",
+    "name": {
+      "value": "missile_fbad7048-8b29-45df-9116-b68e1012517c"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "5cb64f3d047e18497f1b3e9a22b5dae4",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.23"
+  }
+}

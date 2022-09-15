@@ -1,0 +1,19 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "handBuff": "myplugin/1833cedf-1aa2-4650-9236-1642197d7c5e",
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/kisspng-computer-icons-symbol-peace-fist-5abf03ad591835.5448152615224677573649.png",
+  "itemname": "item_f58d128d-b092-4dbe-be1d-97341a1b10cd",
+  "needSave": false,
+  "skill": [],
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

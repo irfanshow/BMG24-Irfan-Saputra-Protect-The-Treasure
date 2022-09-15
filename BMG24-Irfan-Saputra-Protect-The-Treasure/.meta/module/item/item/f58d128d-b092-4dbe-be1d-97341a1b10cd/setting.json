@@ -1,0 +1,24 @@
+{
+  "data": {
+    "icon": {
+      "asset": "asset/kisspng-computer-icons-symbol-peace-fist-5abf03ad591835.5448152615224677573649.png"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "handBuff": "myplugin/1833cedf-1aa2-4650-9236-1642197d7c5e"
+      },
+      "type": "InHand"
+    },
+    "name": {
+      "value": "item_f58d128d-b092-4dbe-be1d-97341a1b10cd"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a4a4a7f3316b3e2a94b1820cca1b47eb",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.23"
+  }
+}

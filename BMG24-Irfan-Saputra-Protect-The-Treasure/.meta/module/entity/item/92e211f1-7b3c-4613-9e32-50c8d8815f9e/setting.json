@@ -1,0 +1,21 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Silver Gray Rectangular Treasure Chest/g2037_treasurebox.actor"
+    },
+    "canJump": false,
+    "canMove": false,
+    "collision": true,
+    "maxHp": 1000,
+    "name": {
+      "value": "entity_92e211f1-7b3c-4613-9e32-50c8d8815f9e"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "3bdb30cbfd64d7244a54800b9a6ab291",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.23"
+  }
+}
